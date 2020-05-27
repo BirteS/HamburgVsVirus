@@ -60,7 +60,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
           if (document.readyState != "loading") fn();
           else document.addEventListener("DOMContentLoaded", fn);
         })();
-</script>}}
+</script>
+    }}
     
   {{ <div class="bk-root" id="b96f2d49-5ad6-4270-9587-f7f5b95014bd" data-root-id="2930"></div> }}
 
